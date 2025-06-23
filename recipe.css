@@ -1,0 +1,25 @@
+.navbg1 {
+    background: rgb(107, 108, 209);
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbg2 {
+    background: rgb(143, 144, 216);
+    font-family: 'Times New Roman', Times, serif;
+}
+.img {
+    max-height: 500px; 
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.img2{
+    display: flex;
+    gap: 60px;
+}
+
+
+.container{
+    background-color: rgb(207, 237, 244);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
